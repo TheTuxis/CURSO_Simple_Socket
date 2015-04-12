@@ -29,7 +29,7 @@ def main():
             #Imprime lo recibido
             print input_data
             #Si lo que enviamos es quit entonces cierra el programa
-            if output_data == 'quit':
+            if output_data == '\quit':
                 return
 
 

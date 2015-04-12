@@ -12,10 +12,10 @@ MSG_WELCOME_SERVER = "Bienvenidos al Server"
 
 MSG_EXPLICACION = "Escucando conexiones presione CRT-C para cerrar el proceso."
 
-MSG_WELCOME_CLIENTE = CLEAR_SCREEN + "Bienvenido al server: Curso Python"
+MSG_WELCOME_CLIENTE = CLEAR_SCREEN + "Bienvenido al server: Curso Python\nEscriba \quit para salir"
 
 MSG_DENEGADO_CLIENTE = SEPARADOR + "El server se encuentra completo"
 
-EXIT_OPTION = 'quit'
+EXIT_OPTION = '\quit'
 
 LIMIT_CONEXTION = 2
